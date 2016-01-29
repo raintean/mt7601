@@ -6,7 +6,7 @@
 ---
 ```
   git clone https://github.com/raintean/mt7601.git
-  ./install.sh
+  cd mt7601;./install.sh
 ```
 
 
