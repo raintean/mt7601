@@ -2,6 +2,16 @@
 
 **注意**: *Linux 4.2版本的内核已经包含了该驱动([驱动源码](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt7601u)), 如果你使用>=4.2版本的内核, 请无视!*
 
+#### 支持设备
+* Ralink 6370
+* MT 6370
+* 360 wifi
+* 小度 wifi
+* 小米 wifi
+* 糯米 wifi
+* 腾讯 wifi
+* 其他MT7601U系列芯片的WIFI
+
 #### 安装方法
 ---
 ```
