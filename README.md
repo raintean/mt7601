@@ -1,9 +1,16 @@
-## MT7601U Linux driver
+## MT7601U芯片系列Linux驱动
 
-*Now that Kernel 4.2 has been released which contains [a driver for mt7601u](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt7601u), this repository is now deprecated.*
+**注意**: *Linux 4.2版本的内核已经包含了该驱动([驱动源码](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt7601u)), 如果你使用>=4.2版本的内核, 请无视!*
+
+#### 安装方法
+---
+```
+  git clone https://github.com/raintean/mt7601.git
+  ./install.sh
+```
 
 
-### Credits
+#### Credits
 
 **Source code:** (c) Copyright 2002-2013, MediaTek Inc. (released under GPLv2)
 
